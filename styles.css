@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    
+}
+
+:root{
+    --font--principal:'Doppio One', sans-serif;
+    --font--language: 'Stick', sans-serif;
+    --color--principal: #000000;
+    --color--background: #F4F4F4;
+    --color--box: #ECE4E4;
+}
+
+.body{
+    background-color: #F0EBDB;
+}
+
+nav{
+    max-width: 1700px;
+    margin: auto;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+    max-width: 100px;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+}
+
+.link{
+    text-decoration: none;
+    font-family: var(--font--principal);
+    color: var(--color--principal);
+}
+
+.link a{
+    position: relative;
+    padding-bottom: 0.75rem;
+    color: var(--color--principal);
+    font-size: 40px;
+}
+
+.link a::after{
+    content: " ";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    bottom: 0;
+    left: 0;
+    transition: all 0.3s ease;
+}
+
+.link a:houver::after{
+    width: 70%;
+}
+
+.container{
+    max-width: 1600px;
+    margin: auto;
+    padding: 3rem;
+}
+
+.dev{
+    font-family: var(--font--principal);
+    font-size: 100;
+    text-align: center;
+}
+
+.dev-profile{
+    padding: 2rem;
+    font-size:  120px;
+    text-align: center;
+    font-family: var(--font--language);
+    color: #FF9900;
+}
+
+.dev-profile span{
+    color: #00C2FF;
+}
+
+.container-skills{
+    margin: 4rem;
+}
+
+.container-skills nav{
+    background-color: var(--color--box);
+    border-radius: 60px;
+    padding: 2;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.container-skills h2{
+    font-family: var(--font--principal);
+    text-align: center;
+    margin: auto;
+    padding: 2rem;
+}
+
+.nav-skills{
+    position: relative;
+    display: flex;
+    list-style: none;
+    gap: 6rem;
+    margin: auto;
+}
+
+
+.container-project h1{
+    text-align: center;
+    font-family: var(--font--principal);
+    margin: auto;
+    padding: 2rem;
+}
+
+.project-nav{
+    margin: auto;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 8rem;
+}
+
+.img-project{
+    border-color: #000000;
+    border: 12px;
+}
