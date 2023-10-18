@@ -6,7 +6,7 @@ Porfólio, criado com o intuito de divulgar, demonstrar e aplicar meus conhecime
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | BH.dev
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS, JavaScript (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
