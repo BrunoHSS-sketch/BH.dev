@@ -3,7 +3,7 @@
 
 Porfólio, criado com o intuito de divulgar, demonstrar e aplicar meus conhecimentos
 
-#| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | BH.dev
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
