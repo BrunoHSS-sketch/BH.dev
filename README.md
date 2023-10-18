@@ -7,8 +7,8 @@ Porfólio, criado com o intuito de divulgar, demonstrar e aplicar meus conhecime
 | -------------  | --- |
 | :sparkles: Nome        | BH.dev
 | :label: Tecnologias | HTML, CSS, JavaScript (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | [https://url-deploy.com.br](https://bh-dev-dusky.vercel.app/)
+
 
 
 
